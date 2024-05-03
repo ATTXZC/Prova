@@ -1,0 +1,21 @@
+.Textao{
+    position: relative;
+    text-align: center;
+}
+
+.Imagens{
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  list-style-type: none;
+  position: relative;
+  justify-content: center;
+  top: 15px;
+  color: blue;
+  font-weight: bold;
+}
+
+.Imagen{
+    width: 250px;
+    height: 450px;
+}

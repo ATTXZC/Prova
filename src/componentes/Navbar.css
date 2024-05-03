@@ -1,0 +1,32 @@
+.navee{
+    background-color: rgb(35, 112, 228);
+}
+
+.senai{
+    position: relative;
+    left: 860px;
+    width: 122px;
+    height: 59px;
+    top: 2px;
+}
+
+.itens-nave{
+    position: relative;
+    justify-content: center;
+    display: flex;
+    list-style-type: none;
+    top: -15px;
+    right: 35px;
+    color: white;
+    font-weight: bold;
+}
+
+.e{
+    text-decoration: none;
+    margin-left: 55px;
+    color: white;
+}
+
+.e:hover{
+    color: rgb(0, 17, 255);
+}

@@ -1,0 +1,18 @@
+.queeem{
+    position: relative;
+    text-align: center;
+}
+
+.paragafro{
+    position: relative;
+    font-family: "verdana";
+    top: 40px;
+}
+
+.hhr{
+    position: relative;
+    padding: 60px;
+    background-color: blue;
+    top: 40px
+    ;
+}

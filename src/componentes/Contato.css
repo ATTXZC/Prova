@@ -1,0 +1,52 @@
+.formulario-container{
+    position: relative;
+    background-color: rgb(225, 240, 240);
+    max-width: 535px;
+    left: 600px;
+}
+
+fieldset{
+    width: 400px;
+    height: 150px;
+    border: none;
+}
+
+
+.input{
+    width: 500px;
+    height: 30px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: solid;
+    border-width: 1px;
+    border-color: rgb(184, 193, 202);
+    font-weight: bold;
+}
+
+.contactar{
+    font-weight: bold;
+}
+
+.cabaço{
+    position: relative;
+    bottom: -55px;
+    font-weight: bold;
+}
+.checkbox-group{
+    position: relative;
+    bottom: -60px;
+}
+
+.complete{
+    position: relative;
+    bottom: -15px;
+}
+
+.nota{
+    font-weight: bold;
+}
+
+.f2{
+    position: relative;
+    bottom: -40px;
+}
